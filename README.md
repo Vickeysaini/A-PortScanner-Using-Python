@@ -8,7 +8,7 @@ can analyse packets , decoding  , scanning ports, pinging and geolocation of an 
 Screenshots
 ---- 
 
-![Screenshot](https://github.com/medbenali/PortScanner/blob/master/images/demo.png)
+![Screenshot]([https://github.com/medbenali/PortScanner/blob/master/images/demo.png](https://medium.com/@s12deff/creating-a-python-port-scanner-ae5a10222812))
 
 Operating Systems Supported
 ---- 
